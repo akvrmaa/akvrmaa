@@ -14,5 +14,11 @@
 <a href="https://instagram.com/akvrmaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.snapchat.com/add/akvrmaa1" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000" /></a>
 <a href="https://www.facebook.com/akvrmaa" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/No_Champion2301/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href=https://x.com/akvrmaa" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href=                                 " target="_blank"><img src=
+
 </p>
+
+
 
