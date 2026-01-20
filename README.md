@@ -20,7 +20,8 @@
 
 
 ## Contact info
-If you have any suggestions or feedback, you can contact me through the links below.
+
+Always open to learning, advice, and meaningful discussions. Feel free to connect through the links below.
 
 
 <p align="left">
