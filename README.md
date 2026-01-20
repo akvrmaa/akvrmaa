@@ -25,4 +25,10 @@
 ![](https://github-trophies.vercel.app/?username=akvrmaa&theme=radical&include=Commits,Repositories,Followers,Stars)
 
 
+![](https://github-profile-trophy.vercel.app/?username=akvrmaa&theme=onedark&row=1&column=6)
 
+
+![](https://github-readme-stats.vercel.app/api?username=akvrmaa&show_icons=true&theme=radical)
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=akvrmaa&theme=radical)
