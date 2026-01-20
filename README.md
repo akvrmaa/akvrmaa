@@ -1,4 +1,5 @@
-Part-time self-learner exploring web technologies for personal interest, experimentation, and continuous skill development.
+> ⚠️ **Note:** Part-time self-learner exploring web technologies out of curiosity and personal interest.
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akvrmaa&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&theme=radical)
