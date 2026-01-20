@@ -11,9 +11,11 @@
 ###  Technical Skills
 - HTML5 – Semantic & Responsive Layouts
 - CSS3 – Flexbox, Grid, Animations
+- JavaScript — Beginner (Basics, DOM, Events)
+
 
 ###  Currently Learning
-- JavaScript — Beginner (Basics, DOM, Events)
+- Improving JavaScript logic and DOM manipulation
 - React.js — Beginner (Components, Props, Basic Hooks)
 - Node.js — Beginner (Express basics, Simple APIs)
 
