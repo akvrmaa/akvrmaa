@@ -21,11 +21,7 @@
 </p>
 
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=akvrmaa&theme=radical&include=Commits,Repositories,Followers,Stars)
 
-
-![](https://github-profile-trophy.vercel.app/?username=akvrmaa&theme=onedark&row=1&column=6)
 
 
 
