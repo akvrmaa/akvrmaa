@@ -20,6 +20,9 @@
 
 
 ## Contact info
+If you have any suggestions or feedback, you can contact me through the links below.
+
+
 <p align="left">
 <a href="https://t.me/akvrmaa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://instagram.com/akvrmaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
