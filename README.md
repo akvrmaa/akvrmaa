@@ -22,10 +22,7 @@
 
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=akvrmaa&theme=radical&exclude=SSSRank)
+![](https://github-trophies.vercel.app/?username=akvrmaa&theme=radical&include=Commits,Repositories,Followers,Stars)
 
-
-
-![](https://github-trophies.vercel.app/?username=akvrmaa&theme=flat&include=Commits,Repositories,Followers)
 
 
