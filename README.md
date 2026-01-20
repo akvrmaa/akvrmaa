@@ -12,7 +12,7 @@
 - HTML5 – Semantic & Responsive Layouts
 - CSS3 – Flexbox, Grid, Animations
 
-### 🌱 Currently Learning
+###  Currently Learning
 - JavaScript — Beginner (Basics, DOM, Events)
 - React.js — Beginner (Components, Props, Basic Hooks)
 - Node.js — Beginner (Express basics, Simple APIs)
