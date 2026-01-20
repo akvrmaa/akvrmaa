@@ -7,6 +7,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,cloudinary" />
 </p>
 
+### 💻 Frontend Skills
+- HTML5 – Semantic & Responsive Layouts
+- CSS3 – Flexbox, Grid, Animations
+- JavaScript – Beginner (Basics, DOM, Events)
+
 
 ## Contact info
 <p align="left">
