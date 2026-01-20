@@ -1,5 +1,4 @@
-## ⚠️ Note
-**Part-time self-learner exploring web technologies out of curiosity and personal interest.**
+## ⚠️ Note:   Part-time self-learner exploring web technologies out of curiosity and personal interest.
 
 
 
