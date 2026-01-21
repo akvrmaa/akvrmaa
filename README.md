@@ -1,9 +1,4 @@
-## Note:   Part-time self-learner exploring web technologies out of curiosity and personal interest.
-
-
-
-
-
+## Note:  I’m a part-time self-learner exploring web technologies out of curiosity and personal interest, using Google and online resources to learn.
 
 
 
