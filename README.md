@@ -16,10 +16,11 @@
 </p>
 
 
-###  Technical Skills
-- HTML5 – Semantic & Responsive Layouts
-- CSS3 – Flexbox, Grid, Animations
+ ###  Technical Skills
+- HTML5 — UI structuring, semantic layouts
+- CSS3 — Flexbox, Grid, animations, responsive layouts
 - JavaScript — Beginner (Basics, DOM, Events)
+
 
 
 ###  Currently Learning
