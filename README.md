@@ -32,7 +32,8 @@
 
 ## Contact info
 
-Always open to learning, advice, and meaningful discussions. Feel free to connect through the links below.
+I’m always looking to learn from people, explore new ideas, and improve myself. Let’s connect and grow together.
+
 
 
 <p align="left">
